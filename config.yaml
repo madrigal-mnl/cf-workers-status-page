@@ -24,7 +24,7 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
-  - id: www-cloudflare-com
+  - id: Cloudflare
     name: www.cloudflare.com
     description: 'Built for anything connected to the Internet.'
     url: 'https://www.cloudflare.com'
